@@ -148,4 +148,14 @@ body {
     align-items: center;
     align-self: center;
     justify-content: space-between;
+    text-align: center;
+}
+
+.card button{
+    padding:15px 45px;
+    background-color: #970f14;
+    border: none;
+}
+.card button:hover{
+    background-color: #970f14;
 }

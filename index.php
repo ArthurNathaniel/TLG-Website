@@ -7,6 +7,9 @@
     <title>Home | TLG Mining</title>
     <?php include 'cdn.php'; ?>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -94,21 +97,91 @@
                     <img class="card-img-top" src="images/card-one.jpg" alt="Card image" style="width:100%">
                     <div class="card-body">
                         <h4 class="card-title">We provide accurate plan and engagement with you </h4>
-                        <a href="#" class="btn btn-primary">See Profile</a>
+
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                            Read more <i class="fas fa-angle-double-right"></i> </button>
                     </div>
                 </div>
+                <!-- Modal -->
+                <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="staticBackdropLabel" style="color:#000;">Our Mission and Vision</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body" style="color:#000;">
+                                <p>
+                                    TLG TRANS COMPANY LIMITED is well focus from its beginning of providing quality services in
+                                    the mining sector to grow with its customers always in mind. We identify our client’s need
+                                    and provide better services to satisfy their need.
+                                </p>
+                            </div>
+                            <div class=" modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="card">
                     <img class="card-img-top" src="images/card-two.jpg" alt="Card image" style="width:100%">
                     <div class="card-body">
                         <h4 class="card-title">We communicate what our client expect from us </h4>
-                        <a href="#" class="btn btn-primary">See Profile</a>
+
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop2">
+                            Read more <i class="fas fa-angle-double-right"></i> </button>
+                    </div>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="staticBackdrop2" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="staticBackdropLabel" style="color:#000;">Our Mission and Vision</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body" style="color:#000;">
+                                <p>
+                                    We provide regular updates on the progress of your matters, including all significant and changes
+                                    to scope , timeline or budget.
+                                </p>
+                            </div>
+                            <div class=" modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="card">
                     <img class="card-img-top" src="./images/card-three.jpg" alt="Card image" style="width:100%">
                     <div class="card-body">
                         <h4 class="card-title">We will be available when you need us </h4>
-                        <a href="#" class="btn btn-primary">See Profile</a>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop3">
+                            Read more <i class="fas fa-angle-double-right"></i> </button>
+                    </div>
+                </div>
+                <!-- Modal -->
+                <div class="modal fade" id="staticBackdrop3" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="staticBackdropLabel" style="color:#000;">Our Mission and Vision</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body" style="color:#000;">
+                                <p>
+                                    We recognize that you often need to make swift decisions and act quickly. We are ready to act for
+                                     you when you need us, and we make ourselves available wherever and whenever necessary.
+                                </p>
+                            </div>
+                            <div class=" modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
