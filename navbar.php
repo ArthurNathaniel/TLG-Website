@@ -17,8 +17,8 @@
                         About Us<i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">Our Company</a></li>
-                        <li><a class="dropdown-item" href="">Border of Directors</a></li>
+                        <li><a class="dropdown-item" href="company.php">Our Company</a></li>
+                        <li><a class="dropdown-item" href="boardofdirector.php">Board of Directors</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -26,9 +26,9 @@
                         Operations<i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">Overview</a></li>
-                        <li><a class="dropdown-item" href="">Mining</a></li>
-                        <li><a class="dropdown-item" href="">Gold Traly</a></li>
+                        <li><a class="dropdown-item" href="overview.php">Overview</a></li>
+                        <li><a class="dropdown-item" href="mining.php">Mining</a></li>
+                        <li><a class="dropdown-item" href="gold-trading.php">Gold Trading</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">

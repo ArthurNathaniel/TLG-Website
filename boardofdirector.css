@@ -1,0 +1,32 @@
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+
+}
+
+.board-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0 5%;
+    margin-top: 100px;
+}
+
+.profile{
+    margin-bottom: 50px;
+    width: 95%;
+    padding: 50px;
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.profile h3{
+    font-weight: 900;
+}
+
+.profile hr{
+    border-top: 5px solid #970f14;
+    border-radius: 50px;
+    box-shadow: rgba(210, 32, 32, 0.824) 0px 13px 27px -5px, rgba(201, 20, 20, 0.902) 0px 8px 16px -8px;
+}
