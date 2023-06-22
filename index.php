@@ -55,33 +55,7 @@
                     We observe Effective environmental management that is integral to the success of <b style="color: #970f14;">TLG TRANS
                         COMPANY LIMITED </b> Mining’s operation from day to-day activities on-site, to corporate strategic planning. TLG Mining’s operations are committed to compliance with applicable laws and regulations.
                 </p>
-                <!-- <div class="whole">
-                    <div class="one">
-                        <h1><i class="fas fa-id-card"></i></h1>
-
-                        <p>
-                            Great Services & A Licensed Company
-                        </p>
-
-                    </div>
-                    <div class="one">
-                        <h1><i class="fas fa-head-side-mask"></i></h1>
-                        <br>
-                        <p>Tlg Mining's COVID-19
-                            Readiness & Response
-                            <br>
-                            Wear Nose Mask
-                        </p>
-
-                    </div>
-                    <div class="one">
-                        <h1><i class="fas fa-hand-holding-water"></i></h1>
-                        <p>
-                            Wash your Hands regularly
-                            Observe Social Distancing
-                        </p>
-                    </div>
-                </div> -->
+           
             </div>
             <div class="home ani">
                 <video src="./images/gold.mp4" width="100%" height="100%" controls>

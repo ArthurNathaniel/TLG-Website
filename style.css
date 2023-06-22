@@ -71,7 +71,8 @@ body {
     text-align: center;
 }
 
-.swiper-text h4, .swiper-text h1{
+.swiper-text h4,
+.swiper-text h1 {
     font-weight: 900;
     font-size: 50px;
 }
@@ -88,7 +89,10 @@ body {
 }
 
 .home {
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding: 50px;
     width: 95%;
 }
@@ -102,11 +106,15 @@ body {
 .home h1 {
     font-weight: 900;
     color: #970f14;
+    width: 100%;
 }
-.home h3{
+
+.home h3 {
+    width: 100%;
     color: #970f14;
     font-weight: 900;
 }
+
 .ani {
     box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
 }
