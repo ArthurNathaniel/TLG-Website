@@ -5,24 +5,24 @@
         </div>
         <div class="operations">
             <h3>OUR OPERATIONS</h3>
-            <a href="">Overview</a>
+            <a href="overview.php">Overview</a>
             <br>
             <br>
-            <a href="">Mining</a>
+            <a href="mining.php">Mining</a>
             <br>
             <br>
-            <a href="">Gold Trading</a>
+            <a href="gold-trading.php">Gold Trading</a>
 
         </div>
         <div class="responsible">
             <h3>RESPONSIBLE MINING</h3>
-            <a href="">Health & Safety</a>
+            <a href="health-and-safety.php">Health & Safety</a>
             <br>
             <br>
-            <a href="">Environment</a>
+            <a href="environmnent.php">Environment</a>
             <br>
             <br>
-            <a href="">Social</a>
+            <a href="social.php">Social</a>
         </div>
         <div class="contact-ft">
             <h3>OUR CONTACT</h3>

@@ -21,7 +21,7 @@
             <div class="swiper-wrapper">
 
                 <div class="swiper-slide">
-                    <img src="./images/home-one.jpg" alt="">
+                    <img src="./images/about.jpg" alt="">
                     <div class="swiper-text">
                         <h4>Historical Highlights</h4>
                     </div>

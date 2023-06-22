@@ -34,7 +34,7 @@
             <h1 class="text-center">Our Value Proposition and Consultancy</h1>
             <div class="card-grid">
                 <div class="card">
-                    <img class="card-img-top" src="images/card-one.jpg" alt="Card image" style="width:100%">
+                    <img class="card-img-top" src="images/High.png" alt="Card image" style="width:100%">
                     <div class="card-body">
                         <h4 class="card-title">High Quality Competitive Mines</h4>
 
@@ -65,7 +65,7 @@
                 </div>
 
                 <div class="card">
-                    <img class="card-img-top" src="images/card-two.jpg" alt="Card image" style="width:100%">
+                    <img class="card-img-top" src="images/growth.png" alt="Card image" style="width:100%">
                     <div class="card-body">
                         <h4 class="card-title">Financial Strength </h4>
 
@@ -98,7 +98,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img class="card-img-top" src="./images/card-three.jpg" alt="Card image" style="width:100%">
+                    <img class="card-img-top" src="./images/Meaningful.png" alt="Card image" style="width:100%">
                     <div class="card-body">
                         <h4 class="card-title">Meaningful Scale Growth-Oriented</h4>
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop3">

@@ -9,7 +9,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     padding: 0 10%;
-    margin-block: 50px;
+    /* margin-block: 50px; */
 }
 
 .our {
@@ -21,13 +21,14 @@
 }
 
 .mission-bg {
-    margin-top: 50px;
+    /* margin-top: 50px; */
     background-color: transparent;
     color: #930e13;
 }
 
 .card {
     background-color: #930e13;
+    margin-bottom: 0;
 }
 
 .card button {
