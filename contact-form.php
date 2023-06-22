@@ -11,18 +11,18 @@
                     <div class="cont">
                         <label>Name:</label>
                         <br>
-                        <input type="text" placeholder="Enter your full name">
+                        <input type="text" placeholder="Enter your full name" required>
                     </div>
                     <div class="cont">
                         <label>Phone:</label>
                         <br>
-                        <input type="number" min="0" placeholder="Enter your phone number">
+                        <input type="number" min="0" placeholder="Enter your phone number" required>
                     </div>
                     
                     <div class="cont">
                         <label>Message</label>
                         <br>
-                        <textarea name="" id="" cols="30" rows="10">
+                        <textarea name="" id="" cols="30" rows="10" required>
 
                         </textarea>
                     </div>

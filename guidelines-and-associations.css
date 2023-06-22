@@ -1,0 +1,32 @@
+.swiper-slide{
+    height: 350px;
+}
+.guide{
+    padding:0 15% ;
+    margin-top: 50px;
+}
+.guide h1{
+    color: #970f14;
+    font-weight: 900;
+}
+
+.guidelines{
+    padding: 50px;
+    margin: 0 15%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-bottom: 50px;
+}
+.guidelines h3{
+    font-weight: 900;
+        color: #970f14;
+}
+
+.guidelines .fa-square-check{
+            color: #970f14;
+            margin-right: 5px;
+}
+
+.health{
+    padding: 0 15%;
+    margin-bottom: 50px;
+}

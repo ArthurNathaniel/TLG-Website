@@ -4,12 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mining | TLG Mining</title>
+    <title>Social | TLG Mining</title>
     <?php include 'cdn.php'; ?>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="mining.css">
+    <link rel="stylesheet" href="guidelines-and-associations.css">
 </head>
 
 <body>
@@ -23,49 +23,32 @@
                 <div class="swiper-slide">
                     <img src="./images/home-one.jpg" alt="">
                     <div class="swiper-text">
-                        <h4>Mining</h4>
+                        <h4>Social</h4>
                     </div>
                 </div>
 
             </div>
     </section>
 
-
-    <section>
-        <div class="overviews-grid">
-            <div class="overview">
-
-            </div>
-            <div class=" overviews-text">
-                <h3>We ask you to share your goals</h3>
-                <p>
-                    The more we know about your goals ,the better we can manage our services to help you attain them .
-                    If your goals change as a matter progresses , we ask that you tell us , so we can adjust our
-                    approach to meet your expectations.
-                </p>
-            </div>
+    
+    <section class="mt-5">
+        <div class="guidelines">
+            <h3>Voluntary Mindset </h3>
+            <p>
+                TLG Trans Mining is committed to providing sustainable benefits to local communities nearest to our
+                operations, working in partnership with governments, local businesses and NGOs to support meaningful
+                and outcome-focused initiatives. We recognize that social investment – including community investment,
+                community development and capacity building – is an important benefit that mining operations can provide
+                in partnership with other local, regional and national organizations and governments.
+                <br>
+                Our approach is to build strong relationships with all of our stakeholders; uphold fundamental human
+                rights; invest in meaningful community projects and sustainable development; and respect cultures,
+                customs and values, while engaging in open and inclusive dialogue.
+            </p>
         </div>
     </section>
-    <div class="bb-grid">
-        <div class="bb">
-            <h1><i class="fas fa-bullseye"></i></h1>
-            <p>
-                We provide accurate plan & engagement with you
-            </p>
-        </div>
-        <div class="bb">
-            <h1><i class="fas fa-comment-dots"></i></h1>
-            <p>
-                We communicate what our client expect from us
-            </p>
-        </div>
-        <div class="bb">
-            <h1><i class="fas fa-headset"></i></h1>
-            <p>
-                We will be available when you need us
-            </p>
-        </div>
-    </div>
+
+
     <?php include 'footer.php'; ?>
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <!-- Initialize Swiper -->

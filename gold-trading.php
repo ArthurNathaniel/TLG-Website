@@ -39,14 +39,34 @@
             <div class=" overviews-text">
                 <h3>Our Gold Trading</h3>
                 <p>
-                    Gold is one of the most traded commodities in the world that we trade in. 
-                    But it is also one of the most challenging because of its use in various 
-                    industries and as a store of wealth Choose us and get the best value and 
+                    Gold is one of the most traded commodities in the world that we trade in.
+                    But it is also one of the most challenging because of its use in various
+                    industries and as a store of wealth Choose us and get the best value and
                     quality from Tlg Trans Company Limited.
                 </p>
             </div>
         </div>
     </section>
+    <div class="bb-grid">
+        <div class="bb">
+            <h1><i class="fas fa-bullseye"></i></h1>
+            <p>
+                We provide accurate plan & engagement with you
+            </p>
+        </div>
+        <div class="bb">
+            <h1><i class="fas fa-comment-dots"></i></h1>
+            <p>
+                We communicate what our client expect from us
+            </p>
+        </div>
+        <div class="bb">
+            <h1><i class="fas fa-headset"></i></h1>
+            <p>
+                We will be available when you need us
+            </p>
+        </div>
+    </div>
     <?php include 'footer.php'; ?>
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <!-- Initialize Swiper -->

@@ -36,13 +36,11 @@
                         Responsible Mining<i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">COVID-19 Readiness & Response</a></li>
-                        <li><a class="dropdown-item" href="">Health & Safety</a></li>
-                        <li><a class="dropdown-item" href="">Environment</a></li>
-                        <li><a class="dropdown-item" href="">Social</a></li>
-                        <li><a class="dropdown-item" href="">Governance</a></li>
-                        <li><a class="dropdown-item" href="">Sustainability Reports</a></li>
-                        <li><a class="dropdown-item" href="">Guidelines & Associations</a></li>
+                        <li><a class="dropdown-item" href="health-and-safety.php">Health & Safety</a></li>
+                        <li><a class="dropdown-item" href="environmnent.php">Environment</a></li>
+                        <li><a class="dropdown-item" href="social.php">Social</a></li>
+                        <li><a class="dropdown-item" href="governance.php">Governance</a></li>
+                        <li><a class="dropdown-item" href="guidelines-and-associations.php">Guidelines & Associations</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -50,8 +48,8 @@
                        Other Services<i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">Mining Consultancy</a></li>
-                        <li><a class="dropdown-item" href="">Haulage</a></li>
+                        <li><a class="dropdown-item" href="mining-consultancy.php">Mining Consultancy</a></li>
+                        <li><a class="dropdown-item" href="haulage.php">Haulage</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
