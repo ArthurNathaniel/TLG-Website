@@ -36,16 +36,16 @@
                         Responsible Mining<i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="health-and-safety.php">Health & Safety</a></li>
-                        <li><a class="dropdown-item" href="environmnent.php">Environment</a></li>
-                        <li><a class="dropdown-item" href="social.php">Social</a></li>
+                        <li><a class="dropdown-item" href="">Health & Safety</a></li>
+                        <li><a class="dropdown-item" href="">Environment</a></li>
+                        <li><a class="dropdown-item" href="">Social</a></li>
                         <li><a class="dropdown-item" href="governance.php">Governance</a></li>
                         <li><a class="dropdown-item" href="guidelines-and-associations.php">Guidelines & Associations</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                       Other Services<i class="fas fa-angle-down"></i>
+                        Other Services<i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="mining-consultancy.php">Mining Consultancy</a></li>
@@ -53,9 +53,10 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="">Contact Us</a>
+                    <a class="nav-link" aria-current="page" href="contact.php">Contact Us</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
+

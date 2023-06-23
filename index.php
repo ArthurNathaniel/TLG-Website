@@ -57,7 +57,7 @@
                 </p>
            
             </div>
-            <div class="home ani">
+            <div class=" ani">
                 <video src="./images/gold.mp4" width="100%" height="100%" controls>
                     Your browser does not support the video tag.
                 </video>
@@ -68,7 +68,7 @@
 
     <section>
         <div class="mission-bg">
-            <h1 class="text-center">Our Mission And Goals</h1>
+            <h1 class="text-center bbb">Our Mission And Goals</h1>
             <div class="card-grid">
                 <div class="card">
                     <img class="card-img-top" src="images/card-one.jpg" alt="Card image" style="width:100%">

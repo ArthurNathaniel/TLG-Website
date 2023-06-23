@@ -23,37 +23,30 @@
                 <div class="swiper-slide">
                     <img src="./images/about.jpg" alt="">
                     <div class="swiper-text">
-                        <h4>Historical Highlights</h4>
+                        <h4>Our Company</h4>
                     </div>
                 </div>
 
             </div>
     </section>
     <section>
-        <div class="company-grid">
-            <div class="box company-one">
-                <!-- <img src="images/company-one.jpg" alt=""> -->
-            </div>
-            <div class="box hh">
-                <hr>
-                <div class="circle">
-                    I
-                </div>
-            </div>
-            <div class="box">
-                <p>
-                    The company started from a humble beginning with one tipper truck which was hired to mining service
-                    contractors. Hiring service was rendered to a small scale mining firm, E K Agyemang Mining Company
-                    Limited being the first Mining Firm the company worked for.
-                    <br>
-                    We have developed to a level where we now own Twelve Tipper Trucks ,Gold Washing Plant ,One Dozer ,
-                    One Grader and six excavators which are hired to companies working in the mining industry.
-                    <br>
-                    We are currently involved in small scale mining activities at Amansie Central District in
-                    Ashanti Region.
-                </p>
-            </div>
+        <div class="top-sub">
+            <h1 class="text-center">Historical Highlights</h1>
+            <p>
+                The company started from a humble beginning with one tipper truck which was hired to mining service
+                contractors. Hiring service was rendered to a small scale mining firm, E K Agyemang Mining Company
+                Limited being the first Mining Firm the company worked for.
+                <br>
+                We have developed to a level where we now own Twelve Tipper Trucks ,Gold Washing Plant ,One Dozer ,
+                One Grader and six excavators which are hired to companies working in the mining industry.
+                <br>
+                We are currently involved in small scale mining activities at Amansie Central District in
+                Ashanti Region.
+            </p>
         </div>
+    </section>
+    <section>
+
 
         <div class="company-grid">
             <div class="box">
@@ -70,7 +63,7 @@
                     II
                 </div>
             </div>
-            <div class="box company-one">
+            <div class="box company-one" style="background-image: url(./images/obj.jpg);">
                 <!-- <img src="images/company-one.jpg" alt=""> -->
             </div>
 
@@ -78,7 +71,7 @@
         </div>
 
         <div class="company-grid">
-            <div class="box company-one">
+            <div class="box company-one" style="background-image: url(./images/card-two.jpg);">
                 <!-- <img src="images/company-one.jpg" alt=""> -->
             </div>
             <div class="box hh">
@@ -112,16 +105,16 @@
                     IV
                 </div>
             </div>
-            <div class="box company-one">
-                <!-- <img src="images/company-one.jpg" alt=""> -->
+            <div class="box company-one" style="background-image: url(./images/card-one.jpg);">
+                <!-- <img src=" images/company-one.jpg" alt=""> -->
             </div>
 
 
         </div>
 
         <div class="company-grid">
-            <div class="box company-one">
-                <!-- <img src="images/company-one.jpg" alt=""> -->
+            <div class="box company-one" style="background-image: url(./images/card-three.jpg);">
+                <!-- <img src=" images/company-one.jpg" alt=""> -->
             </div>
             <div class="box hh">
                 <hr>
@@ -150,18 +143,18 @@
             <div class="box hh">
                 <hr>
                 <div class="circle">
-                   VI
+                    VI
                 </div>
             </div>
-            <div class="box company-one">
-                <!-- <img src="images/company-one.jpg" alt=""> -->
+            <div class="box company-one" style="background-image: url(./images/value.jpg);">
+                <!-- <img src=" images/company-one.jpg" alt=""> -->
             </div>
 
 
         </div>
         <div class="company-grid">
-            <div class="box company-one">
-                <!-- <img src="images/company-one.jpg" alt=""> -->
+            <div class="box company-one" style="background-image: url(./images/bus.jpg);">
+                <!-- <img src=" images/company-one.jpg" alt=""> -->
             </div>
             <div class="box hh">
                 <hr>
@@ -193,8 +186,8 @@
                     VIII
                 </div>
             </div>
-            <div class="box company-one">
-                <!-- <img src="images/company-one.jpg" alt=""> -->
+            <div class="box company-one" style="background-image: url(./images/last.jpg);">
+                <!-- <img src=" images/company-one.jpg" alt=""> -->
             </div>
 
 

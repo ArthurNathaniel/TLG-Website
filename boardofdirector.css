@@ -33,3 +33,17 @@
     border-radius: 50px;
     box-shadow: rgba(210, 32, 32, 0.824) 0px 13px 27px -5px, rgba(201, 20, 20, 0.902) 0px 8px 16px -8px;
 }
+
+@media only screen and (max-width: 1192px) {
+    .board-grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+       
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .board-grid{
+        display: block;
+    }
+}

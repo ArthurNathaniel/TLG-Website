@@ -93,7 +93,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 50px;
+    /* padding: 50px; */
     width: 95%;
 }
 
@@ -116,8 +116,21 @@ body {
 }
 
 .ani {
-    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    margin: 0;
+    padding: 0;
 }
+
+.ani {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    align-items: center;
+}
+
+/* .ani {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+} */
 
 .one {
     width: 95%;
@@ -245,4 +258,56 @@ body {
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 1192px) {
+    .home-grid {
+        display: block;
+    }
+
+    .home,
+    .get-grid,
+    footer,
+    .footer-grid {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .mission-bg,
+    .card-grid {
+        display: block;
+    }
+
+    .bbb h1 {
+        padding: 2px solid #fff;
+        margin-bottom: 30px !;
+    }
+
+    .card {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 0 auto !important;
+        margin-bottom: 50px !important;
+    }
+.footer-grid{
+text-align: center;
+}
+    .map {
+        height: 80vh;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+    .footer-logo, .operations, .responsible{
+      margin-bottom: 35px;
+    }
+    footer{
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .card {
+        display: block;
+    }
 }

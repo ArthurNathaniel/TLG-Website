@@ -1,0 +1,80 @@
+Sure! Here's an example of HTML and JavaScript code to allow users to change their profile picture:
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Change Profile Picture</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+    <h1>Change Profile Picture</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Current Profile Picture</h3>
+                <img id="profileImage" src="./images/bg.jpg" alt="Profile Picture">
+            </div>
+            <div class="col-md-6 mt-5">
+              
+                <label for="profileImageUpload">Upload New Profile Picture</label>
+                <input type="file" id="profileImageUpload" accept="image/*">
+                <button id="uploadButton" class="btn btn-primary">Upload</button>
+            </div>
+        </div>
+    </div>
+    <script>
+        // Get elements by their IDs
+        var profileImage = document.getElementById('profileImage');
+        var profileImageUpload = document.getElementById('profileImageUpload');
+        var uploadButton = document.getElementById('uploadButton');
+
+        // Add event listener for file input change
+        profileImageUpload.addEventListener('change', function (e) {
+            var file = e.target.files[0];
+            var reader = new FileReader();
+
+            // Read the uploaded file as data URL
+            reader.readAsDataURL(file);
+
+            // When the file is loaded, update the profile picture
+            reader.onload = function () {
+                profileImage.src = reader.result;
+            };
+        });
+
+        // Add event listener for upload button click
+        uploadButton.addEventListener('click', function () {
+            // Perform upload logic here
+            // You can use Ajax to send the file to a server for further processing
+            alert('Profile picture uploaded successfully!');
+        });
+    </script>
+</body>
+
+</html>
+
+<style>
+    #profileImage{
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        border: 2px solid tomato;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+
+   input {
+display: none;
+background-color: red;
+    }
+      label {
+        
+    padding: 10px;
+        border: 2px solid red;
+     }
+</style>
