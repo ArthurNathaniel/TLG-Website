@@ -21,7 +21,7 @@
         <div class="swiper  mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="./images/home-one.jpg" alt="">
+                    <img src="./images/contact.png" alt="">
                     <div class="swiper-text">
                         <h4> Contact Us</h4>
                     </div>
