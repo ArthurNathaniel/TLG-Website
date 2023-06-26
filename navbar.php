@@ -36,9 +36,9 @@
                         Responsible Mining<i class="fas fa-angle-down"></i>
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="">Health & Safety</a></li>
-                        <li><a class="dropdown-item" href="">Environment</a></li>
-                        <li><a class="dropdown-item" href="">Social</a></li>
+                        <li><a class="dropdown-item" href="health-and-safety.php">Health & Safety</a></li>
+                        <li><a class="dropdown-item" href="environmnent.php">Environment</a></li>
+                        <li><a class="dropdown-item" href="social.php">Social</a></li>
                         <li><a class="dropdown-item" href="governance.php">Governance</a></li>
                         <li><a class="dropdown-item" href="guidelines-and-associations.php">Guidelines & Associations</a></li>
                     </ul>

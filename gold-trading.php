@@ -21,7 +21,7 @@
             <div class="swiper-wrapper">
 
                 <div class="swiper-slide">
-                    <img src="./images/home-one.jpg" alt="">
+                    <img src="./images/gold-bg.png" alt="">
                     <div class="swiper-text">
                         <h4>Gold Trading</h4>
                     </div>

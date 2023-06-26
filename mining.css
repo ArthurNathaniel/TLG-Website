@@ -16,11 +16,16 @@
 
 .overviews-text {
     padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .overviews-text h3{
     font-weight: 900;
     color: #930e13;
+    width: 100%;
 }
 
 .overview {
@@ -28,6 +33,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 400px;
 }
 
 .bb-grid {

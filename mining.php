@@ -21,7 +21,7 @@
             <div class="swiper-wrapper">
 
                 <div class="swiper-slide">
-                    <img src="./images/home-one.jpg" alt="">
+                    <img src="./images/mining-bg.png" alt="">
                     <div class="swiper-text">
                         <h4>Mining</h4>
                     </div>

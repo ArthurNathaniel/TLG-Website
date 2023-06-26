@@ -21,7 +21,7 @@
             <div class="swiper-wrapper">
 
                 <div class="swiper-slide">
-                    <img src="./images/home-one.jpg" alt="">
+                    <img src="./images/transport-bg.png" alt="">
                     <div class="swiper-text">
                         <h4>TLG Transport</h4>
                     </div>

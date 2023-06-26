@@ -21,7 +21,7 @@
             <div class="swiper-wrapper">
 
                 <div class="swiper-slide">
-                    <img src="./images/about.jpg" alt="">
+                    <img src="./images/about-bg.png" alt="">
                     <div class="swiper-text">
                         <h4>Our Company</h4>
                     </div>
