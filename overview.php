@@ -63,7 +63,7 @@
         </div>
         <div class="bb">
             <h1><i class="fas fa-comment-dots"></i></h1>
-            <p>
+            <p> 
                 We communicate what our client expect from us
             </p>
         </div>

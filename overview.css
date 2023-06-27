@@ -28,6 +28,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100%;
 }
 
 .bb-grid {
@@ -69,6 +70,7 @@
 
     .bb {
         margin-bottom: 50px;
+        width: 100%;
     }
 }
 

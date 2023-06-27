@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="boardofdirector.css">
 </head>
 
-<body>
+<body> 
 
     <?php include 'navbar.php'; ?>
     <section>
@@ -21,7 +21,7 @@
             <div class="swiper-wrapper">
 
                 <div class="swiper-slide">
-                    <img src="./images/bod.jpg" alt="">
+                    <img src="./images/about.jpg" alt="">
                     <div class="swiper-text">
                         <h4>Board of Directors & Management</h4>
                     </div>
