@@ -54,21 +54,9 @@
                 </strong>
             </div>
 
-            <div class="profile">
-                <h3>Mr. Ebenezer Nti</h3>
-                <hr>
-                <strong>
-                    <i>Secretary</i>
-                </strong>
-            </div>
+         
 
-            <div class="profile">
-                <h3>Ebenezer Nti</h3>
-                <hr>
-                <strong>
-                    <i>Office and Administrative Personel</i>
-                </strong>
-            </div>
+       
 
             <div class="profile">
                 <h3>Patrik Mensah</h3>
