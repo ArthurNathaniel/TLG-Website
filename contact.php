@@ -39,8 +39,10 @@
             </div>
             <div class="contt">
                 <h1><i class="fas fa-phone"></i></h1>
-                <p><a href="tel:0247094575" style="color: #000;
-                 text-decoration:none;">0247094575</a></p>
+                <p><a href="tel:0208119455" style="color: #000;
+                 text-decoration:none;">+233208119455</a></p>
+                <p><a href="tel:+233322021894" style="color: #000;
+                 text-decoration:none;">+233322021894</a></p>
             </div>
         </div>
     </section>

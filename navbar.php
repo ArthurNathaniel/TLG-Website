@@ -19,6 +19,7 @@
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="company.php">Our Company</a></li>
                         <li><a class="dropdown-item" href="boardofdirector.php">Board of Directors</a></li>
+                        <li><a class="dropdown-item" href="profolio.php">Our Profolio</a></li>
                     </ul>
                 </li>
                 <li class="nav-item dropdown">
@@ -59,4 +60,3 @@
         </div>
     </div>
 </nav>
-

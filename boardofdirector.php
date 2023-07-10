@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="boardofdirector.css">
 </head>
 
-<body> 
+<body>
 
     <?php include 'navbar.php'; ?>
     <section>
@@ -36,51 +36,171 @@
                 <h3>Mr. Sampson Kofi Wiredu</h3>
                 <hr>
                 <strong>
-                    <i>Managing Director</i>
+                    <i>Chief Executive Officer
+                    </i>
                 </strong>
             </div>
             <div class="profile">
                 <h3>Mrs. Mary Wiredu</h3>
                 <hr>
                 <strong>
-                    <i>Directress</i>
+                    <i> Director
+                    </i>
                 </strong>
             </div>
             <div class="profile">
-                <h3>Mr. Robert Nfodjo</h3>
+                <h3>Miss Gloria Frimpomaa Wiredu
+                </h3>
                 <hr>
                 <strong>
-                    <i>Accountant</i>
-                </strong>
-            </div>
-
-         
-
-       
-
-            <div class="profile">
-                <h3>Patrik Mensah</h3>
-                <hr>
-                <strong>
-                    <i>Office and Administrative Personel</i>
+                    <i>Director
+                    </i>
                 </strong>
             </div>
 
             <div class="profile">
-                <h3>Egblogbe Anaglate Esq</h3>
+                <h3>Miss Esther Boatemaa Wiredu
+
+                </h3>
                 <hr>
                 <strong>
-                    <i>Attorney</i>
+                    <i>Director
+                    </i>
                 </strong>
             </div>
 
             <div class="profile">
-                <h3>Asamoa Bonsu and Company</h3>
+                <h3>Nana Yaw Wiredu
+                </h3>
                 <hr>
                 <strong>
-                    <i>Auditor</i>
+                    <i>Director
+                    </i>
                 </strong>
             </div>
+            <div class="profile">
+                <h3>
+                    Mr. Kwabena Ampong
+                </h3>
+                <hr>
+                <strong>
+                    <i>
+                        Group General Manager
+                    </i>
+                </strong>
+            </div>
+
+            <div class="profile">
+                <h3>
+                    Mr. Robert Nfodjo
+                </h3>
+                <hr>
+                <strong>
+                    <i>
+                        Accountant
+                    </i>
+                </strong>
+            </div>
+
+            <div class="profile">
+                <h3>
+                    Mr. Robert Nfodjo
+                </h3>
+                <hr>
+                <strong>
+                    <i>
+                        Mining & Transport Manager
+                    </i>
+                </strong>
+            </div>
+
+            <div class="profile">
+                <h3>
+                    Mr. Samuel Apesega
+                </h3>
+                <hr>
+                <strong>
+                    <i>
+                        Geologist
+                    </i>
+                </strong>
+            </div>
+
+            <div class="profile">
+                <h3>
+                    Mr. Kwame Baah Eshun
+
+                </h3>
+                <hr>
+                <strong>
+                    <i>
+                        Architect
+
+                    </i>
+                </strong>
+            </div>
+            <div class="profile">
+                <h3>
+                    Mr. Patrick Owusu
+
+                </h3>
+                <hr>
+                <strong>
+                    <i>
+                        Surveyor
+
+                    </i>
+                </strong>
+            </div>
+
+            <div class="profile">
+                <h3>
+                    Nana Kwaku Osei Adjaye
+
+
+                </h3>
+                <hr>
+                <strong>
+                    <i>
+                        Community Liaison Officer
+
+                    </i>
+                </strong>
+            </div>
+
+
+            <div class="profile">
+                <h3>
+                    Mr. Robert Nfodjo
+
+
+                </h3>
+                <hr>
+                <strong>
+                    <i>
+                        Secretary
+
+                    </i>
+                </strong>
+            </div>
+
+            <div class="profile">
+                <h3>
+                    W O Osmanu
+
+
+
+                </h3>
+                <hr>
+                <strong>
+                    <i>
+                        Chief Security
+
+                    </i>
+                </strong>
+            </div>
+
+
         </div>
     </section>
 

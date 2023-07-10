@@ -10,4 +10,4 @@
 <!--Lightbox CDN-->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
 <!--Favicon-->
-<link rel="icon" href="./images/favicon.png" type="image/png">
+<link rel="icon" href="./images/logo.png" type="image/png">

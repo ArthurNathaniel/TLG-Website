@@ -53,8 +53,15 @@
                 <h4>Objectives</h4>
 
                 <p>
-                    Road and Building Construction ,Civil Engineering Works ,Mining Construction,Trading in General Goods,
-                    Transport Service, Import and Export of General Goods.
+                    Mining,
+                    Mining Support Services,
+                    Transport Services,
+                    Roads & Building Construction Services,
+                    Civil Engineering Services,
+                    Private Security Services,
+                    Hospitality Services (Hotel),
+                    Imports & Exports of General Goods,
+                    Trading in General Goods
                 </p>
             </div>
             <div class="box hh">
@@ -83,9 +90,8 @@
             <div class="box">
                 <h4>Vision</h4>
                 <p>
-                    Our Vision as a company is to become the leading mining service provider in the mining industry,
-                    to advance our service provision with all efficiency and on time to avoid time-wasting for our client
-                    service provisions.
+
+                    To Become a World Class Standard Company
                 </p>
             </div>
         </div>
@@ -95,8 +101,10 @@
             <div class="box">
                 <h4>Mission</h4>
                 <p>
-                    We have general quality service in mind, timely delivery, efficient operation,
-                    and prompt payment for all our services provided.
+                    To deploy the best technology for the efficient and timely execution of projects
+                    and to sustain the interest of all stakeholders through
+                    continuous engagements and the adoption of best business practices
+                    for work process improvements.
                 </p>
             </div>
             <div class="box hh">
@@ -123,9 +131,13 @@
                 </div>
             </div>
             <div class="box">
-                <h4>Values</h4>
+                <h4>Core Values</h4>
                 <p>
-                    General quality service in mind , timely delivery , efficient operation and prompt payment for services provided.
+                    Services Efficiency,
+                    Environmental Consciousness,
+                    Safety,
+                    Integrity,
+                    Community.
                 </p>
             </div>
         </div>
@@ -135,9 +147,7 @@
             <div class="box">
                 <h4>Business Goals & Objectives</h4>
                 <p>
-                    Our goal is to provide quality services to our contractors to whom we render subcontracts.
-                    These would serve as a guiding principle that would propel our company to secure a direct
-                    contract from mining companies.
+                    To provide top quaility services to all our clients
                 </p>
             </div>
             <div class="box hh">
@@ -165,8 +175,8 @@
             <div class="box">
                 <h4>Business Strategy </h4>
                 <p>
-                    One of our major business growth strategies is to employ the best possible workforce, giving out the best practices in the industry,
-                    harnessing to develop the company to the highest level in the industry and also to become a household name.
+                    To employ the best Human Resource in the industry
+                    and to use the best technological approach to achieve the best results
                 </p>
             </div>
         </div>
@@ -176,8 +186,9 @@
             <div class="box">
                 <h4>Economic Intent</h4>
                 <p>
-                    All businesses exist and seek to survive market conditions. At TLG, our main economic intent is to operate as a business entity to
-                    make profit into the business, for progression, and speed up the development of the company
+                    To operate as a business entity with the aim of making profits to
+                     plough back the profits into the business to grow the business to 
+                     become a world class standard business
                 </p>
             </div>
             <div class="box hh">
