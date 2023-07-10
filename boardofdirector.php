@@ -104,7 +104,7 @@
 
             <div class="profile">
                 <h3>
-                    Mr. Robert Nfodjo
+                    Mr. Rockson Afriyie
                 </h3>
                 <hr>
                 <strong>

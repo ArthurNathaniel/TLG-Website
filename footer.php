@@ -6,25 +6,25 @@
         <div class="operations">
             <h3>OUR OPERATIONS</h3>
             <a href="overview.php">
-            Overview</a>
+                Overview</a>
             <br>
             <br>
             <a href="mining.php">
-            Mining</a>
+                Mining</a>
             <br>
             <br>
             <a href="gold-trading.php">
-            Gold Trading</a>
+                Gold Trading</a>
 
         </div>
         <div class="responsible">
             <h3>RESPONSIBLE MINING</h3>
             <a href="health-and-safety.php">
-            Health & Safety</a>
+                Health & Safety</a>
             <br>
             <br>
             <a href="environmnent.php">
-            Environment</a>
+                Environment</a>
             <br>
             <br>
             <a href="social.php">
@@ -32,16 +32,16 @@
         </div>
         <div class="contact-ft">
             <h3>OUR CONTACT</h3>
-            <a href="https://goo.gl/maps/gMQAt1Q5XdV3xgtq6"><i class="fas fa-map-marker-alt"></i>  
-            Kumasi</a>
+            <a href="https://goo.gl/maps/gMQAt1Q5XdV3xgtq6"><i class="fas fa-map-marker-alt"></i>
+                Kumasi</a>
             <br>
             <br>
-            <a href="tel:0247094575"><i class="fas fa-phone"></i> 
-            0247094575</a>
+            <a href="tel:+233322021894"><i class="fas fa-phone"></i>
+                +233322021894</a>
             <br>
             <br>
-            <a href="mailto:info@tlgghana.com"><i class="far fa-envelope"></i>  
-            info@tlgghana.com</a>
+            <a href="mailto:info@tlgghana.com"><i class="far fa-envelope"></i>
+                info@tlgghana.com</a>
         </div>
     </div>
 </footer>
