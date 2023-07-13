@@ -39,7 +39,7 @@
             <div class=" overviews-text">
                 <h3>Our Overview and Strategy</h3>
                 <p>
-                    As the world’s leading gold company, TLG's strategy is to create value for all shareholders
+                    TLG's strategy is to create value for all shareholders
                     and stakeholders through efforts to: Deliver superior operational execution by ensuring fatality
                     risks are managed at all times with strong leadership and systems, continually improving
                     operational performance, and meeting commitments without fail.
